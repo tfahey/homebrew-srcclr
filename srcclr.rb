@@ -1,7 +1,7 @@
 require "formula"
 
 class Srcclr < Formula
-  VERSION = "3.8.21"
+  VERSION = "3.8.18"
 
   desc "The command-line interface to the SourceClear platform"
   homepage "https://www.sourceclear.com"
